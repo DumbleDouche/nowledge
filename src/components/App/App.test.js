@@ -1,6 +1,6 @@
 import { render } from '@testing-library/react';
 import App from './App';
 
-test('Showing up', () => {
+test('No crash render', () => {
   render(<App />);
 });
