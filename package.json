@@ -1,5 +1,9 @@
 {
   "name": "nowledge",
+  "author": {
+    "name":"DumbleDouche"
+  },
+  "main": "src/index.js",
   "version": "0.1.0",
   "keywords": [
     "quiz"
@@ -39,15 +43,12 @@
       "last 1 safari version"
     ]
   },
-  "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DumbleDouche/nowledge.git"
+    "url": "https://github.com/DumbleDouche/nowledge.git"
   },
-  "author": "DumbleDouche",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/DumbleDouche/nowledge/issues"
   },
-  "homepage": "https://github.com/DumbleDouche/nowledge#readme"
+  "license": "MIT"
 }
